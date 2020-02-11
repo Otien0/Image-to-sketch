@@ -1,2 +1,4 @@
 # Image-to-sketch
-converting image to sketch in Python using openCV
+A Python program to convert image to sketch  using ;
+ openCV, numpy(with scipy) and imageio libraries
+
